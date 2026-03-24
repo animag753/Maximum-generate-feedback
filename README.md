@@ -28,6 +28,8 @@ python -m venv env
     source env/scripts/activate
     ```
 
+Установить библиотеки
+
 ```
 python -m pip install --upgrade pip
 ```
